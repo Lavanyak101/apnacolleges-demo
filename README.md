@@ -1,3 +1,3 @@
 # apnacolleges-demo
 This is my first Git repository.<br> 
-Author-Lavanya K
+Author-Lavanya K(Kumar)
